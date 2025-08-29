@@ -11,9 +11,9 @@ app.post('/bfhl', (req, res) => {
         const { data } = req.body;
 
         // --- IMPORTANT: Fill in your personal details here ---
-        const user_id = "john_doe_17091999"; // Replace with your full_name_ddmmyyyy
-        const email = "john@xyz.com";          // Replace with your email
-        const roll_number = "ABCD123";      // Replace with your roll number
+        const user_id = "rajat_bansal_05012005"; // Replace with your full_name_ddmmyyyy
+        const email = "rajatbansal2022@vitbhopal.ac.in";          // Replace with your email
+        const roll_number = "22BSA10276";      // Replace with your roll number
 
         // Initialize arrays to hold the classified data
         const odd_numbers = [];
